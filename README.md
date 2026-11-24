@@ -91,7 +91,6 @@ A lista completa de componentes, a pinagem, o esquema do divisor de tensão e as
   <img src="docs/media/desenvolvimento-07.jpg" width="240" alt="Registro do desenvolvimento 7">
   <img src="docs/media/desenvolvimento-08.jpg" width="240" alt="Registro do desenvolvimento 8">
   <img src="docs/media/desenvolvimento-09.jpg" width="240" alt="Registro do desenvolvimento 9">
-  <img src="docs/media/desenvolvimento-10.jpg" width="240" alt="Registro do desenvolvimento 10">
   <img src="docs/media/desenvolvimento-11.jpg" width="240" alt="Registro do desenvolvimento 11">
   <img src="docs/media/desenvolvimento-12.jpg" width="240" alt="Registro do desenvolvimento 12">
   <img src="docs/media/desenvolvimento-13.jpg" width="240" alt="Registro do desenvolvimento 13">
