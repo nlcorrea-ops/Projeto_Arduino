@@ -1,0 +1,35 @@
+# Sistema operacional
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+
+# Flutter / Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/doc/api/
+
+# Android / Gradle
+**/.gradle/
+**/local.properties
+**/captures/
+**/key.properties
+**/*.keystore
+**/*.jks
+
+# IDEs e dados específicos da máquina
+**/.idea/
+**/*.iml
+**/.vscode/
+**/xcuserdata/
+**/*.xcuserstate
+
+# Artefatos do Xcode
+**/DerivedData/
+**/Pods/
+
