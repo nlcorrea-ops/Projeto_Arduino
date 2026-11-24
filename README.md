@@ -7,7 +7,7 @@ Nossa ideia foi transformar o conteúdo da disciplina em algo divertido e intera
 ## Integrantes
 
 - **Giulia Borges**
-- **Natanel Correa**
+- **Natanael Correa**
 - **Larissa Angelica**
 
 ## Sobre o projeto
